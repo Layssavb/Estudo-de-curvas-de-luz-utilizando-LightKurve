@@ -4,13 +4,13 @@
 Uma curva de luz é um gráfico que mostra a variação do brilho de um objeto astronômico ao longo do tempo.
 Essas curvas permitem detectar fenômenos como:
 
-** Trânsitos de exoplanetas,
+* Trânsitos de exoplanetas,
 
-Rotação estelar,
+* Rotação estelar,
 
-Pulsação de estrelas variáveis,
+* Pulsação de estrelas variáveis,
 
-Atividade estelar (manchas, flares).
+* Atividade estelar (manchas, flares).
 
 # Objetivo:
 
