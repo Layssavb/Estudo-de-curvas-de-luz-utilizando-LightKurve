@@ -25,23 +25,23 @@ Os pipelines são diferentes métodos de processamento das observações brutas 
 
 Alguns exemplos utilizados neste projeto:
 
-K2SFF: corrige o drift do telescópio com self flat fielding.
+* K2SFF: corrige o drift do telescópio com self flat fielding.
 
-EVEREST: usa regressão baseada em pixels para remover ruído sistemático.
+* EVEREST: usa regressão baseada em pixels para remover ruído sistemático.
 
-SPOC: pipeline oficial da NASA para TESS/K2.
+* SPOC: pipeline oficial da NASA para TESS/K2.
 
-K2 (bruto): dados com menos processamento, podendo conter mais ruído instrumental.
+* K2 (bruto): dados com menos processamento, podendo conter mais ruído instrumental.
 
 Comparar os pipelines ajuda a escolher os dados mais limpos e adequados para análise.
 
 🔹 Missões Kepler/K2 e TESS
 
-Kepler (2009–2018): buscou exoplanetas através da detecção de trânsitos.
+* Kepler (2009–2018): buscou exoplanetas através da detecção de trânsitos.
 
-K2 (2014–2018): continuação da missão Kepler, observando diferentes regiões do céu em campanhas chamadas sectors ou campaigns.
+* K2 (2014–2018): continuação da missão Kepler, observando diferentes regiões do céu em campanhas chamadas sectors ou campaigns.
 
-TESS (2018–presente): cobre quase todo o céu em setores de observação de 27 dias, focando em estrelas mais próximas e brilhantes.
+* TESS (2018–presente): cobre quase todo o céu em setores de observação de 27 dias, focando em estrelas mais próximas e brilhantes.
 
 Essas missões fornecem enormes catálogos de curvas de luz para estudos astrofísicos.
 
